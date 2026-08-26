@@ -1,0 +1,1 @@
+"Classify the following customer ticket into exactly one of these catagories: [Refund, Shipping, Login, Payment, Account, Product Quality, Order Change, Other]. Reply ONLY with the category name.\n\nTicket: "

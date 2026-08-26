@@ -1,0 +1,15 @@
+Classify each of the following 30 customer tickets into exactly one of these categories: [Refund, Shipping, Login, Payment, Account, Product Quality, Order Change, Other]. 
+
+
+
+Examples:
+
+Input: "I sent back the shoes last week, when will my money be credited back?" -> Output: Refund
+
+Input: "Where is my package? The tracking link hasn't updated in 4 days." -> Output: Shipping
+
+Input: "I tried to log in but it says my password is invalid." -> Output: Login
+
+Input: "Can I change my delivery address before the order gets dispatched?" -> Output: Order Change
+
+Input: "The zipper on this jacket broke the first time I used it." -> Output: Product Quality Ticket: []

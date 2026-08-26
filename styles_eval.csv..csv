@@ -1,0 +1,31 @@
+ID,Ticket Text,Ground Truth,Zero-Shot Pred,Few-Shot Pred,Role - Based,,,
+1,"Hi there! I would like to request a full refund for my recent purchase, order#48291",Refund,Refund,Refund,Refund,TRUE,TRUE,TRUE
+2,Could you tell me where my package currently is? Tracking hasn't updated in three days.,Shipping,Shipping,Shipping,Shipping,TRUE,TRUE,TRUE
+3,"I'm trying to log into my account, but it keeps saying my password is incorrect even after resetting it.",Login,Login,Login,Login,TRUE,TRUE,TRUE
+4,I noticed a double charge on my credit card statement for my latest subscription payment.,Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE
+5,How do I change the shipping address for an order I placed about an hour ago?,Order Change,Order Change,Order Change,Order Change,TRUE,TRUE,TRUE
+6,The product I received today arrived damaged with a cracked screen. How do I return it?,Product Quality,Product Quality,Product Quality,Product Quality,TRUE,TRUE,TRUE
+7,I need to update the credit card information saved on my account for auto-renewals.,Account,Account,Account,Account,TRUE,TRUE,TRUE
+8,"Can I add one more item to my order, or is it too late to modify it?",Order Change,Order Change,Order Change,Order Change,TRUE,TRUE,TRUE
+9,Is your physical retail store in Chicago open on holiday weekends?,Other,Other,Other,Other,TRUE,TRUE,TRUE
+10,"My tracking link says my parcel was delivered, but there’s nothing at my front door.",Shipping,Shipping ,Shipping ,Shipping ,TRUE,TRUE,TRUE
+11,I accidentally ordered the wrong size; can I exchange this before it ships,Order Change,Order Change,Order Change,Order Change,TRUE,TRUE,TRUE
+12,"I keep getting an ""Error 500"" message every time I try to check out on your mobile app.",Login,Other,Other,Other,FALSE,FALSE,FALSE
+13,Could you please send me a copy of my tax invoice for order #10492?,Other,Payment ,Payment ,Payment ,FALSE,FALSE,FALSE
+14,How long does it usually take for a refunded amount to show back in my bank account?,Account,Refund,Refund,Refund,FALSE,FALSE,FALSE
+15,I received a completely different item than what I actually ordered.,Order Change,Product Quality,Product Quality,Product Quality,FALSE,FALSE,FALSE
+16,Can you help me apply a promo code to an order I just submitted?,Other,Order Change,Order Change,Order Change,FALSE,FALSE,FALSE
+17,I've forgotten the email address associated with my profile; how can I recover my account?,Account,Account,Account,Account,TRUE,TRUE,TRUE
+18,The item I bought last week stopped working completely today. Is this covered under warranty?,Product Quality,Product Quality,Product Quality,Product Quality,TRUE,TRUE,TRUE
+19,Please cancel my order #99201 immediately as I no longer need the items.,Other,Order Change,Order Change,Order Change,FALSE,FALSE,FALSE
+20,"Do you offer international shipping to Canada, and what are the extra fees?",Shipping,Shipping,Shipping,Shipping,TRUE,TRUE,TRUE
+21,"I was charged a full subscription fee, but I thought I was still on the free trial period.",Other,Payment,Payment,Payment,FALSE,FALSE,FALSE
+22,How do I change my primary account phone number for two-factor authentication?,Account,Account,Account,Account,TRUE,TRUE,TRUE
+23,The package arrived missing two key components listed on the box.,Product Quality,Product Quality,Product Quality,Product Quality,TRUE,TRUE,TRUE
+24,Can I split the payment between two different credit cards at checkout?,Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE
+25,My package is stuck in customs clearance; do you know what documents are needed?,Shipping,Shipping,Shipping,Shipping,TRUE,TRUE,TRUE
+26,I need to update my billing address because I recently moved to a new state.,Other,Account,Account,Account,FALSE,FALSE,FALSE
+27,Is there a restock date set for the out-of-stock medium leather jackets?,Other,Other,Other,Other,TRUE,TRUE,TRUE
+28,"I received an email saying my payment failed, but my bank shows the funds are pending.",Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE
+29,How do I delete my personal data and permanently close my account?,Account,Account,Account,Account,TRUE,TRUE,TRUE
+30,"The coupon code ""SUMMER20"" isn't applying the discount to my cart.",Payment,Payment,Payment,Payment,TRUE,TRUE,TRUE

@@ -1,0 +1,2 @@
+"You are a senior customer support analyst specializing in automated ticket routing. Analyze the tone and intent of the following ticket , then classify it into exactly one of these categories: [ Refund, Shipping, Login, Payment, Account, Product Quality, Order Change, Other]. Output only the category name.\n\nTicket: []" 
+
