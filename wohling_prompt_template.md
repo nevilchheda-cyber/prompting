@@ -1,6 +1,0 @@
-# Role: [Who the AI is acting as, including domain expertise and perspective]
-# Context: [Background information, business domain, or audience context needed for execution]
-# Task: [The primary action required, stated clearly using action verbs]
-# Constraints: [Boundaries, negative rules, length limits, or forbidden topics]
-# Format: [The exact structural layout, fields, schema, or style of the expected output]
-# Examples: [1–3 input/output pairs demonstrating proper handling and edge cases]
