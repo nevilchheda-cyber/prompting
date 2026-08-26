@@ -1,0 +1,6 @@
+* **Input 1:** *"Ergonomic mesh office chair. Lumbar support, adjustable armrests, breathable back. Gray."*
+  
+* **Input 2:** *"Non-stick frying pan. Aluminum body, ceramic coating, dishwasher safe. 10 inch."*
+  
+* **Input 3:** *"Smart LED desk lamp. Touch control, 3 color modes, USB charging port."*
+ 
