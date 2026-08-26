@@ -1,0 +1,3 @@
+* **Input 1:** *"I am so upset! This morning (Aug 12) at 8:15 AM I was driving on Main St when a deer ran out. I swerved into a tree. My front grill is smashed and radiator is leaking. My name is Mark Vance, policy number MV-88310."*
+* **Input 2:** *"Someone broke my side window and stole my laptop while I was at the gym last night. I don't remember my policy number offhand, but my name is Sarah Lin."*
+* **Input 3:** *"Water pipes burst in my basement! Flooded everything! I'm John Smith, policy 44102."*

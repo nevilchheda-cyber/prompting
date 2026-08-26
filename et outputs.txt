@@ -1,0 +1,25 @@
+* **Output 1:**
+```json
+{
+  "category": "NORMAL",
+  "reasoning": "General feature inquiry with no impact on current system operations.",
+  "recommended_action": "Standard Queue"
+}
+
+* **Output 2:**
+
+JSON
+{
+  "category": "SPAM",
+  "reasoning": "Unsolicited promotional phishing message.",
+  "recommended_action": "Delete"
+}
+
+* **Output 3:**
+
+JSON
+{
+  "category": "URGENT",
+  "reasoning": "Authentication outage affecting all users on the live customer portal.",
+  "recommended_action": "Route to Tier 3"
+}

@@ -1,0 +1,5 @@
+* **Input 1:** *"Hey team, just wondering if there's an update on when the new dark mode theme will be released? Thanks, Alex."*
+
+* **Input 2:** * "CONGRATS! You have been selected for a free $500 Amazon Giftcard! Click here immediately to claim."*
+
+* **Input 3:** * "CRITICAL: Our customer portal login is throw 500 errors for all users after the last update. Nobody can sign in."*

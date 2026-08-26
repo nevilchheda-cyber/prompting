@@ -1,0 +1,20 @@
+* **Output 1:**
+    * **Claimant Name**: Mark Vance
+    * **Policy Number**: MV-88310
+    * **Date/Time of Incident**: August 12, 8:15 AM
+    * **Incident Overview**: Driver swerved to avoid an animal collision and struck a tree.
+    * **Reported Loss/Damage**: Smashed front grill, leaking radiator.
+
+  * **Output 2:**
+    * **Claimant Name**: Sarah Lin
+    * **Policy Number**: Not Provided
+    * **Date/Time of Incident**: Last night
+        * **Incident Overview**: Vehicle was broken into while parked at a gym facility.
+    * **Reported Loss/Damage**: Broken side window, stolen laptop.
+
+  * **Output 3:**
+    * **Claimant Name**: John Smith
+    * **Policy Number**: 44102
+    * **Date/Time of Incident**: Not Provided
+    * **Incident Overview**: Burst water pipes caused basement flooding.
+    * **Reported Loss/Damage**: Water/flood damage to basement and contents.
